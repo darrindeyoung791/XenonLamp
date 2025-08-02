@@ -1,4 +1,4 @@
-# XenonLampProject
+# XenonLamp (Developing)
 
 XenonLamp 是一个分体式视频播放器。不同于常见播放器播控设置与视频界面在同一窗口的设计，XenonLamp 分离两者，视频窗口只播放视频，控制窗口单独控制。
 
