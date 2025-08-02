@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "XenonLamp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "XenonLamp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
